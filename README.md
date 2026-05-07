@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+%26+Infrastructure;Web+Security+%26+Automation;Maps+%26+Geolocation+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=1200&lines=Programador+Universitario+Full+Stack;Backend+%7C+APIs+REST+%7C+Infraestructura;Arquitectura+y+Optimizacion+de+Sistemas;Automatizacion+y+Extraccion+de+Datos;Seguridad+Web+y+Troubleshooting;Linux+%7C+Docker+%7C+Networking;Aplicaciones+de+Mapas+y+Geolocalizacion" />
 </p>
 
 ## Hola! gracias por visitar.
