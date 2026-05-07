@@ -79,15 +79,11 @@ Git • Arduino • C#
 
 <br/>
 
----
-
-
 # Tecnologías
-
 
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=android,aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,html,js,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,postman,python,react,sqlite,tailwind,ts,vue,webpack&theme=dark&perline=10" 
+    src="https://skillicons.dev/icons?i=android,aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=10" 
   />
 </p>
