@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="bannergif.gif" />
+  <img src="./bannergif.gif" width="800" />
 </p>
 
 <h2 align="center">👋 Hola! gracias por visitar.</h2>
