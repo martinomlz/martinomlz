@@ -1,4 +1,3 @@
-
 ## 👋 Hola! gracias por visitar.
 
 <p align="center">
@@ -22,18 +21,20 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 <div align="center">
 
 <a href="https://github.com/martinomlz" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
 <a href="https://linkedin.com/in/martinomontiveroliz" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 <a href="https://instagram.com/martino_ml" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 </div>
+
+<br/>
 
 ---
 
@@ -42,42 +43,22 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 ## ⚙️ Tecnologías con las que trabajo habitualmente
 
 ### Frontend
-- React
-- Vue
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Bootstrap
-- TailwindCSS
+React • Vue • HTML5 • CSS3 • JavaScript • TypeScript • Bootstrap • TailwindCSS
 
 ### Backend
-- Node.js
-- Express
-- PHP
-- Python
-- .NET
+Node.js • Express • PHP • Python • .NET
 
 ### Bases de datos
-- PostgreSQL
-- MySQL
-- MongoDB
-- MariaDB
+PostgreSQL • MySQL • MongoDB • MariaDB
 
 ### DevOps e infraestructura
-- Docker
-- Nginx
-- Linux
-- Firebase
+Docker • Nginx • Linux • Firebase
 
 ### CMS & E-commerce
-- WordPress
-- WooCommerce
+WordPress • WooCommerce
 
 ### Otros
-- Git
-- Arduino
-- C#
+Git • Arduino • C#
 
 ---
 
@@ -102,7 +83,28 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 
 <div align="center">
 
-<!-- PEGA AQUÍ TU BLOQUE DE ICONOS -->
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 
 </div>
 
@@ -115,5 +117,3 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 ### 💻 Software útil > complejidad innecesaria
 
 </div>
-
-
