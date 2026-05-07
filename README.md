@@ -83,11 +83,6 @@ Trabajo construyendo sistemas desde adentro: APIs, herramientas internas, automa
 ▸ Optimización de rendimiento · debugging
 ```
 
----
-
-## 🗂️ Proyectos destacados
-
-> *Próximamente — en construcción*
 
 ---
 
