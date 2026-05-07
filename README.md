@@ -59,7 +59,15 @@ WordPress • WooCommerce
 Git • Arduino • C#
 
 ---
+# Tecnologías
 
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=android,aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=15" 
+  />
+</p>
+---
 # 🔥 Experiencias
 
 - Arquitectura y diseño de aplicaciones escalables
@@ -77,13 +85,4 @@ Git • Arduino • C#
 
 ---
 
-<br/>
 
-# Tecnologías
-
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=android,aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=15" 
-  />
-</p>
