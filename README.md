@@ -3,7 +3,7 @@
   <img src="./giffinal.gif" width="800" />
 </p>
 
-<h2 align="center">👋 Hola! gracias por visitar.</h2>
+<h2 align="center"> Hola! gracias por visitar.</h2>
 
 <p align="center">
 Desarrollador Full Stack con formación universitaria en la Universidad Tecnológica Nacional (UTN Tucumán), titulado como Programador Universitario.
@@ -36,9 +36,9 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 
 ---
 
-# 🧠 Un poco sobre mi 👇
+#  Un poco sobre mi 👇
 
-## ⚙️ Tecnologías con las que trabajo habitualmente
+##  Tecnologías con las que trabajo habitualmente
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=17" 
@@ -67,7 +67,7 @@ Git • Arduino • C#
  
  ---
 
-# 🔥 Experiencias
+#  Experiencias
 
 - Arquitectura y diseño de aplicaciones escalables
 - Seguridad web y análisis de vulnerabilidades
