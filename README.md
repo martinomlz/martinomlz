@@ -39,6 +39,11 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 # 🧠 Un poco sobre mi 👇
 
 ## ⚙️ Tecnologías con las que trabajo habitualmente
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=17" 
+  />
+</p>
 
 ### Frontend
 React • Vue • HTML5 • CSS3 • JavaScript • TypeScript • Bootstrap • TailwindCSS
@@ -57,17 +62,6 @@ WordPress • WooCommerce
 
 ### Otros
 Git • Arduino • C#
-
----
-# Tecnologías
-
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=17" 
-  />
-</p>
-
 
  <br/>
  
