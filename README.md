@@ -1,73 +1,51 @@
+![](https://github.com/martinomlz/martinomlz/raw/main/giffinal.gif)
 
-<p align="center">
-  <img src="./giffinal.gif" width="800" />
-</p>
+## Hola! gracias por visitar.
 
-<h2 align="center"> Hola! gracias por visitar.</h2>
+Desarrollador Full Stack con formación universitaria en la Universidad Tecnológica Nacional (UTN Tucumán), Tecnicatura Universitaria en Programación.
 
-<p align="center">
-Desarrollador Full Stack con formación universitaria en la Universidad Tecnológica Nacional (UTN Tucumán), titulado como Programador Universitario.
-</p>
-
-<p align="center">
 Me especializo en desarrollo web, backend, automatización e infraestructura, trabajando desde la arquitectura del sistema hasta el despliegue y optimización.
 Mi enfoque está orientado a construir software útil, escalable y mantenible.
-</p>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/martinomlz" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-
-<a href="https://linkedin.com/in/martinomontiveroliz" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-<a href="https://instagram.com/martino_ml" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-
-</div>
-
-<br/>
+[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinomlz)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinomontiveroliz)
+[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/martino_ml)
 
 ---
 
-#  Un poco sobre mi 👇
+# Un poco sobre mi 👇
 
-##  Tecnologías con las que trabajo habitualmente
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=aws,bootstrap,cs,css,docker,dotnet,express,firebase,gcp,git,github,html,js,kubernetes,linux,mongodb,mysql,nextjs,debian,ubuntu,nginx,nodejs,netlify,npm,prisma,php,kali,postgres,postman,python,pytorch,react,sqlite,supabase,vercel,tailwind,vite,selenium,ts,bash,vue,webpack&theme=dark&perline=17" 
-  />
-</p>
+## Tecnologías con las que trabajo habitualmente
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,postgres,sqlite,mongodb,firebase,supabase,docker,nginx,aws,linux,bash,git,github,githubactions,npm&theme=dark&perline=13)](https://skillicons.dev)
 
 ### Frontend
-React • Vue • HTML5 • CSS3 • JavaScript • TypeScript • Bootstrap • TailwindCSS
+
+React • Next.js • HTML5 • CSS3 • JavaScript • TypeScript • Tailwind CSS • Bootstrap • Vite
 
 ### Backend
-Node.js • Express • PHP • Python • .NET
+
+Node.js • Express • APIs REST • Server-Sent Events • Webhooks
 
 ### Bases de datos
-PostgreSQL • MySQL • MongoDB • MariaDB
+
+PostgreSQL • SQLite • SQL Server • MongoDB • Drizzle ORM • SQL
 
 ### DevOps e infraestructura
-Docker • Nginx • Linux • Firebase
 
-### CMS & E-commerce
-WordPress • WooCommerce
+AWS (EC2, Lightsail, S3) • Docker • Docker Compose • Nginx • Linux • GitHub Actions • Git • Bash
+
+### Seguridad
+
+Firebase Auth • JWT • Roles y permisos • Rate limiting • Fundamentos OWASP
 
 ### Otros
-Git • Arduino • C#
 
- <br/>
- 
- ---
+Playwright • Claude Code • Antigravity IDE
 
-#  Experiencias
+---
+
+# Experiencias
 
 - Arquitectura y diseño de aplicaciones escalables
 - Seguridad web y análisis de vulnerabilidades
@@ -79,9 +57,7 @@ Git • Arduino • C#
 - Análisis de tráfico, networking y troubleshooting
 - Desarrollo de aplicaciones con mapas y geolocalización
 - Integración de bases de datos y procesamiento de información
-- Reverse engineering y análisis técnico de aplicaciones web
 - Herramientas internas, paneles administrativos y sistemas de gestión
 
 ---
-
 
