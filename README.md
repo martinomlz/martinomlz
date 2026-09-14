@@ -1,4 +1,4 @@
-![](https://github.com/martinomlz/martinomlz/raw/main/giffinal.gif)
+[](https://github.com/martinomlz/martinomlz/raw/main/giffinal.gif)
 
 ## Hola! gracias por visitar.
 
@@ -13,11 +13,43 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 
 ---
 
+# Proyectos en producción 🚀
+
+### DigitalMenu — SaaS multi-tenant para gastronomía
+
+[![Ver en producción](https://img.shields.io/badge/Ver_en_producción-%23FF7A00.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.digitalmenu.com.ar)
+
+Catálogo con QR y platos en 3D con realidad aumentada desde el navegador, pedidos de salón y delivery, caja, stock y rentabilidad, facturación electrónica ante ARCA y cobros con Mercado Pago en la cuenta de cada negocio.
+
+Desarrollador único: 93 endpoints REST sobre 39 tablas en PostgreSQL, con permisos resueltos en la propia base de datos. Desplegado en AWS Lightsail con Docker Compose, Nginx y TLS, build en GitHub Actions y backups diarios replicados a S3.
+
+`Next.js` `React 19` `TypeScript` `PostgreSQL` `Tailwind` `Docker` `Nginx` `AWS` `GitHub Actions`
+
+### Taller Tejera — Sistema de gestión para un taller de chapa y pintura
+
+[![Ver en producción](https://img.shields.io/badge/Ver_en_producción-%2316588E.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://tallertejera.com.ar)
+
+Fichas de clientes y vehículos, presupuestos, órdenes de trabajo con historial y fotos, inventario de repuestos e insumos, finanzas y liquidaciones. Lo usa el personal del taller todos los días.
+
+17 pantallas y 22 recursos REST. Las 3 terminales se mantienen sincronizadas en vivo con Server-Sent Events nativos, sin librerías de tiempo real. Corre en AWS EC2 con Docker y Nginx, con backups a S3 que se verifican antes de subir.
+
+`React` `Vite` `Node.js` `Express` `SQLite` `Firebase Auth` `Docker` `Nginx` `AWS EC2` `PWA`
+
+### EP! Disco — Punto de venta en tiempo real
+
+[![Repositorio](https://img.shields.io/badge/Ver_repositorio-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinomlz/epdiscotec)
+
+POS para la operación de un boliche, con stock sincronizado en vivo entre 10 terminales de caja simultáneas, y módulo de productos, promociones, precios, tickets e historial de ventas.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Tailwind`
+
+---
+
 # Un poco sobre mi 👇
 
 ## Tecnologías con las que trabajo habitualmente
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,postgres,sqlite,mongodb,firebase,supabase,docker,nginx,aws,linux,bash,git,github,githubactions,npm&theme=dark&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,postgres,sqlite,mongodb,firebase,supabase,docker,nginx,aws,linux,bash,py,git,github,githubactions,npm&theme=dark&perline=13)](https://skillicons.dev)
 
 ### Frontend
 
@@ -33,7 +65,11 @@ PostgreSQL • SQLite • SQL Server • MongoDB • SQL
 
 ### DevOps e infraestructura
 
-AWS (EC2, Lightsail, S3) • Docker • Docker Compose • Nginx • Linux • GitHub Actions • Git • Bash
+AWS (EC2, Lightsail, S3) • Docker • Docker Compose • Nginx • Linux • GitHub Actions • Git
+
+### Scripting y automatización
+
+Python (scripts de ciberseguridad y herramientas internas) • Bash • Playwright
 
 ### Seguridad
 
@@ -41,7 +77,7 @@ Firebase Auth • JWT • Roles y permisos • Rate limiting • Fundamentos OWA
 
 ### Otros
 
-Playwright • Claude Code • Antigravity IDE
+Claude Code • Antigravity IDE
 
 ---
 
