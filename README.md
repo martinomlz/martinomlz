@@ -29,7 +29,7 @@ Node.js • Express • APIs REST • Server-Sent Events • Webhooks
 
 ### Bases de datos
 
-PostgreSQL • SQLite • SQL Server • MongoDB • Drizzle ORM • SQL
+PostgreSQL • SQLite • SQL Server • MongoDB • SQL
 
 ### DevOps e infraestructura
 
