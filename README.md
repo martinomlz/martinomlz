@@ -13,7 +13,7 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 
 ---
 
-# Proyectos en producción 🚀
+# Proyectos en producción 
 
 ### DigitalMenu — SaaS multi-tenant para gastronomía
 
@@ -45,7 +45,7 @@ POS para la operación de un boliche, con stock sincronizado en vivo entre 10 te
 
 ---
 
-# Un poco sobre mi 👇
+# Un poco sobre mi 
 
 ## Tecnologías con las que trabajo habitualmente
 
