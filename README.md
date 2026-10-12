@@ -21,7 +21,7 @@ Mi enfoque está orientado a construir software útil, escalable y mantenible.
 
 Catálogo con QR y platos en 3D con realidad aumentada desde el navegador, pedidos de salón y delivery, caja, stock y rentabilidad, facturación electrónica ante ARCA y cobros con Mercado Pago en la cuenta de cada negocio.
 
-Desarrollador único: 93 endpoints REST sobre 39 tablas en PostgreSQL, con permisos resueltos en la propia base de datos. Desplegado en AWS Lightsail con Docker Compose, Nginx y TLS, build en GitHub Actions y backups diarios replicados a S3.
+93 endpoints REST sobre 39 tablas en PostgreSQL, con permisos resueltos en la propia base de datos. Desplegado en AWS Lightsail con Docker Compose, Nginx y TLS, build en GitHub Actions y backups diarios replicados a S3.
 
 `Next.js` `React 19` `TypeScript` `PostgreSQL` `Tailwind` `Docker` `Nginx` `AWS` `GitHub Actions`
 
